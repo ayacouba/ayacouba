@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ayacouba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, Javascript, C++, C, and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in front end development and data science
+- 🌱 I’m currently learning the React library, and python
 
 <!---
 ayacouba/ayacouba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
